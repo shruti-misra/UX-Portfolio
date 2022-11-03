@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Shruti Misra"
   avatar : "/assets/images/BioPhoto.jpeg"
-  bio    : "I’m a PhD student and a user researcher . I’m passionate about creating usable digital products. I am passionate about driving impact through evidence-based design decision-making and ensuring that user needs are strongly represented in every step of the design process. I find my purpose in bridging the gap between technological innovation and human needs pertaining to those innovations."
+  bio    : "I’m a PhD student and a user researcher. I’m passionate about creating usable digital products. I care about driving impact through evidence-based design decision-making and ensuring that user needs are strongly represented in every step of the design process. I find my purpose in bridging the gap between technological innovation and human needs pertaining to those innovations."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://shruti-misra.github.io/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -113,3 +113,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
